@@ -520,7 +520,7 @@ export default function App() {
           <div className="flex items-center gap-2 opacity-50">
             <i className="fa-solid fa-leaf text-emerald-600"></i>
             <span className="font-bold text-slate-800">
-              Coach Biodiversité PRO
+              Coach Biodiversitée PRO
             </span>
           </div>
           <div className="text-xs text-slate-400 text-center md:text-right">
